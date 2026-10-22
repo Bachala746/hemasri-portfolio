@@ -215,6 +215,14 @@ function App() {
               <span>FastAPI</span>
               <span>REST APIs</span>
             </div>
+            <a
+              href="https://github.com/Bachala746/agentic-ai-startup-mentor"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="project-link"
+            >
+              View on GitHub ↗
+            </a>
 
           </div>
 
@@ -237,6 +245,14 @@ function App() {
               designed to improve morning routines through personalized
               interactions and wake-up challenges.
             </p>
+            <a
+              href="https://github.com/Bachala746/wake-talk-ai"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="project-link"
+            >
+              View on GitHub ↗
+            </a>
 
             <div className="tags">
               <span>AI</span>
@@ -273,6 +289,14 @@ function App() {
               <span>Matplotlib</span>
               <span>Seaborn</span>
             </div>
+            <a
+              href="https://github.com/Bachala746/Dog-and-Cat-classifier"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="project-link"
+            >
+              View on GitHub ↗
+            </a>
 
           </div>
 
@@ -536,3 +560,7 @@ function App() {
 }
 
 export default App;
+
+
+
+// npm run dev

@@ -842,3 +842,16 @@ footer {
     font-size: 16px;
   }
 }
+
+.project-link {
+  display: inline-block;
+  margin-top: 18px;
+  color: #a78bfa;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.project-link:hover {
+  color: #ffffff;
+}
